@@ -1,16 +1,16 @@
-It is a simple tic tac toe game built on react js.
+It is a simple tic-tac-toe game built on react js.
 
-There are two players "X" and "O" that can play this game.
+Two players "X" and "O" can play this game.
 
-Whenever a user select any box, that time a sound will be played.
+Whenever a user selects any box, that time a sound will be played.
 
-If in any row, column, or diagonal, there is same user icon, that time that user will be won.
-and game will be over. and you will also hear a winning sound.
+If there is the same user icon in any row, column, or diagonal, that time that user will be won.
+and the game will be over. and you will also hear a winning sound.
 
-If there is no any same user in three box of any row, or column or diagonal, that time that game will called as draw.
+If there is no same user in three boxes of any row, column, or diagonal, that game will be called a draw.
 
 If there is any winner or draw, that time reset button will be displayed.
 
-User can click on reset button and start a new game.
+Users can click on the reset button and start a new game.
 
-<img src="/src/react-tic-tac-toe-game-snapshot.png" height="200" width="200">
+<img src="/src/react-tic-tac-toe-game-snapshot.png">
